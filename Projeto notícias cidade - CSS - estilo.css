@@ -54,8 +54,7 @@ ul{
 }
 body.legislacao #navegacao a#home{
 	background: #de003e;
-	color: #fff;
-	cursor: text;
+	cursor: pointer;
 }
 body.home #navegacao a#home{
 background: #de003e;
