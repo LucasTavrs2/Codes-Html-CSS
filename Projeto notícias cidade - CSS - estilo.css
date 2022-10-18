@@ -52,6 +52,11 @@ ul{
 #topo ul a:hover{
 	color: #69001d;
 }
+body.legislacao #navegacao a#home{
+	background: #de003e;
+	color: #fff;
+	cursor: text;
+}
 body.home #navegacao a#home{
 background: #de003e;
 	color: #fff;
