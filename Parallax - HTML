@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Parallax</title>
+	<link rel="stylesheet" type="text/css" href="estilo.css">
+</head>
+<body>    
+		
+		<div class="caixa1">
+			<div class="conteudo-titulo">
+				<span class="titulo">PASSEIO DOS BALÕES</span>
+			</div>
+		</div>
+
+		<div class="conteudo">
+				<h3>Parallax</h3>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ullamcorper at sem ut tempus. Nulla lorem diam, auctor ac purus eu, bibendum laoreet lorem. Duis ex risus, mollis ac consectetur sed, dictum sit amet dui. Nullam ornare diam at orci sodales malesuada. In vitae lacus vel orci dignissim ullamcorper ac id lacus. Duis consequat purus ex, id tristique nunc fermentum vitae. Phasellus vulputate justo urna, sit amet egestas felis blandit sit amet. </p>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ullamcorper at sem ut tempus. Nulla lorem diam, auctor ac purus eu, bibendum laoreet lorem. Duis ex risus, mollis ac consectetur sed, dictum sit amet dui. Nullam ornare diam at orci sodales malesuada. In vitae lacus vel orci dignissim ullamcorper ac id lacus. Duis consequat purus ex, id tristique nunc fermentum vitae. Phasellus vulputate justo urna, sit amet egestas felis blandit sit amet. </p>
+		</div>
+
+		<div class="caixa2">
+			<div class="conteudo-titulo">
+				<span class="titulo">PEGANDO A ESTRADA</span>
+			</div>
+		</div>
+
+		<div class="conteudo">
+				<h3>Dolor sit amet</h3>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ullamcorper at sem ut tempus. Nulla lorem diam, auctor ac purus eu, bibendum laoreet lorem. Duis ex risus, mollis ac consectetur sed, dictum sit amet dui. Nullam ornare diam at orci sodales malesuada. In vitae lacus vel orci dignissim ullamcorper ac id lacus. Duis consequat purus ex, id tristique nunc fermentum vitae. Phasellus vulputate justo urna, sit amet egestas felis blandit sit amet. </p>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ullamcorper at sem ut tempus. Nulla lorem diam, auctor ac purus eu, bibendum laoreet lorem. Duis ex risus, mollis ac consectetur sed, dictum sit amet dui. Nullam ornare diam at orci sodales malesuada. In vitae lacus vel orci dignissim ullamcorper ac id lacus. Duis consequat purus ex, id tristique nunc fermentum vitae. Phasellus vulputate justo urna, sit amet egestas felis blandit sit amet. </p>
+		</div>
+
+		<div class="caixa3">
+			<div class="conteudo-titulo">
+				<span class="titulo">PÔR DO SOL</span>
+			</div>
+		</div>
+
+		<div class="conteudo">
+				<h3>Lorem ipsum</h3>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ullamcorper at sem ut tempus. Nulla lorem diam, auctor ac purus eu, bibendum laoreet lorem. Duis ex risus, mollis ac consectetur sed, dictum sit amet dui. Nullam ornare diam at orci sodales malesuada. In vitae lacus vel orci dignissim ullamcorper ac id lacus. Duis consequat purus ex, id tristique nunc fermentum vitae. Phasellus vulputate justo urna, sit amet egestas felis blandit sit amet. </p>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ullamcorper at sem ut tempus. Nulla lorem diam, auctor ac purus eu, bibendum laoreet lorem. Duis ex risus, mollis ac consectetur sed, dictum sit amet dui. Nullam ornare diam at orci sodales malesuada. In vitae lacus vel orci dignissim ullamcorper ac id lacus. Duis consequat purus ex, id tristique nunc fermentum vitae. Phasellus vulputate justo urna, sit amet egestas felis blandit sit amet. </p>
+		</div>
+
+		<div class="caixa4">
+			<div class="conteudo-titulo">
+				<span class="titulo">MONTANHAS</span>
+			</div>
+		</div>
+
+</body>
+</html>
